@@ -6,8 +6,7 @@ ContactBook is a simple, efficient, and intuitive application designed for organ
 
 	•	CRUD Operations: Easily add, update, delete, and search for contacts.
 	•	User-Friendly Interface: Simplified design for quick navigation and accessibility.
-	•	Data Persistence: Uses a database (or file storage) to retain contact information even after the application is closed.
-
+	
 # Technologies Used:
 
 	•	Frontend: html, css, javascript
